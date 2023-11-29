@@ -24,3 +24,5 @@ Creating notes online or offline.
 ## Credits
 
 Project created by Kathryn Dougherty with instruction from the UCF Coding Bootcamp.
+
+Special thanks to my classmate, Jorlyna, and our TA, Mary.
